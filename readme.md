@@ -1,3 +1,12 @@
+# Content-Extraction-and-Sentiment-Analysis
+
+This project aims to automatically extract text from 100+ web pages and perform sentiment analysis on the extracted content. It uses the BeautifulSoup library for web scraping and the TextBlob library for sentiment analysis.
+
+
+It generates a csv file that contain all the URLs along with the test result of sentiment analysis.
+
+
+
 # Instructions
 
 ## 1. Package must contain following directories:
